@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chubinco
-- 👀 I’m interested in flask and react
+- 👋 Hi, I’m chubinco
+- 👀 I’m interested in flask, fastapi and react
 - 🌱 I’m currently learning tomsk univer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @chubinco
